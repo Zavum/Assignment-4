@@ -4,7 +4,7 @@
 
 module.exports = {
   db: {
-    uri: '', //place the URI of your mongo database here.
+    uri: ' mongodb://zavum:koolkittykat@ds047355.mongolab.com:47355/testdba3', //place the URI of your mongo database here.
   }, 
   googleMaps: {
     key: ''
